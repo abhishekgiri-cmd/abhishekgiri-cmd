@@ -1,14 +1,19 @@
+<!-- <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="440" height="250" /> -->
+<p align="center">
+<a href="#"><img  widht="40%" align="center" height="auto" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="175"/></a>
+    </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Programmer&center=true&width=500&height=50">
+</p>
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">नमस्ते <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek Giri</h1>
+<h1 align="center"><b>नमस्ते</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,This is <a href="">Abhishek Giri</a> for you</h1>
 <h3 align="center">I'm a passionate Full Stack Web Developer from India.</h3>
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[blinkit website](https://blinkit.vercel.app/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **<a href="">Data Structures and Algorithms </a>, <a href="">MongoDB</a>, <a href="">ExpressJs</a>, <a href="">React</a>, <a href="">NodeJs </a>**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -37,7 +42,7 @@
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek mehra's streak" src="https://github-readme-streak-stats.herokuapp.com?user=abhishek-mehra&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek Giri's streak" src="https://github-readme-streak-stats.herokuapp.com?user=abhishekgiri-cmd&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
